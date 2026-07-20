@@ -1,0 +1,487 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Vinod\IIS Published\GOPWebAPI</_PublishTargetUrl>
+    <History>True|2026-06-25T10:35:35.8033723Z||;True|2026-06-24T16:51:33.0085994+05:30||;True|2026-06-16T15:02:56.2080617+05:30||;True|2026-06-11T15:08:09.7988236+05:30||;True|2026-05-21T16:11:09.7449793+05:30||;True|2026-05-14T15:46:05.7853650+05:30||;True|2026-04-29T14:32:19.7601823+05:30||;True|2026-04-22T14:17:57.9320071+05:30||;True|2026-03-06T16:52:55.1417434+05:30||;True|2026-02-23T10:14:44.6865001+05:30||;True|2026-02-12T16:41:16.9309167+05:30||;True|2026-02-04T16:38:44.9499479+05:30||;True|2025-12-30T09:42:25.3507828+05:30||;True|2025-12-22T10:20:14.8926484+05:30||;True|2025-12-08T14:09:39.3293446+05:30||;True|2025-12-01T14:12:09.5264966+05:30||;True|2025-11-27T10:04:16.0250518+05:30||;True|2025-11-24T10:13:47.0828716+05:30||;True|2025-11-12T15:38:10.7857361+05:30||;True|2025-10-31T17:59:53.9284680+05:30||;True|2025-10-17T11:36:13.3812964+05:30||;True|2025-10-10T10:32:47.1733768+05:30||;True|2025-10-03T10:30:32.5560420+05:30||;True|2025-09-26T16:11:36.3006203+05:30||;True|2025-09-19T16:09:12.0689066+05:30||;True|2025-09-16T16:22:32.1327207+05:30||;True|2025-08-29T17:10:20.7087518+05:30||;True|2025-08-22T16:14:35.3004309+05:30||;True|2025-08-14T16:46:51.0105335+05:30||;True|2025-08-10T20:23:00.3871834+05:30||;True|2025-08-01T16:16:09.6232640+05:30||;True|2025-07-25T17:30:08.7307132+05:30||;True|2025-07-18T16:53:28.1442879+05:30||;True|2025-07-11T17:38:08.1083323+05:30||;True|2025-07-04T17:18:29.2379029+05:30||;True|2025-06-27T17:45:38.9714682+05:30||;True|2025-06-20T09:46:45.4045166+05:30||;True|2025-06-13T17:18:09.7573268+05:30||;True|2025-06-10T17:41:52.7599103+05:30||;True|2025-06-09T17:47:19.5179026+05:30||;True|2025-06-05T12:36:46.2483870+05:30||;True|2025-05-27T17:36:27.8144747+05:30||;True|2025-05-02T16:51:42.2915409+05:30||;True|2025-04-22T17:40:54.0158078+05:30||;True|2025-04-15T09:55:58.2773156+05:30||;True|2025-04-09T09:46:29.8853609+05:30||;True|2025-04-04T17:16:40.6714426+05:30||;True|2025-03-26T14:16:58.0011993+05:30||;True|2025-03-24T16:43:45.8815085+05:30||;True|2025-03-19T16:57:46.4045611+05:30||;True|2025-03-11T11:58:07.2642297+05:30||;True|2025-03-10T13:59:48.6626756+05:30||;True|2025-03-06T16:53:42.4031650+05:30||;True|2025-03-04T11:35:37.7158040+05:30||;True|2025-02-25T10:35:12.3991352+05:30||;True|2025-02-19T11:03:08.5294908+05:30||;True|2025-02-13T17:15:38.5589326+05:30||;True|2024-10-23T15:55:44.1090901+05:30||;True|2024-10-17T16:35:08.4176343+05:30||;True|2024-10-08T11:03:11.0487580+05:30||;True|2024-10-07T17:41:09.0958700+05:30||;True|2024-10-04T11:46:29.9500194+05:30||;True|2024-09-25T14:10:13.0083991+05:30||;True|2024-09-20T17:42:07.5101823+05:30||;True|2024-09-18T17:23:01.9410149+05:30||;True|2024-08-27T17:28:29.6727232+05:30||;True|2024-08-23T15:27:31.0166013+05:30||;True|2024-08-22T16:00:38.7797106+05:30||;True|2024-08-05T17:05:36.9695041+05:30||;True|2024-07-26T16:22:37.8395821+05:30||;True|2024-07-17T16:21:19.0972264+05:30||;True|2024-06-11T14:04:58.7923891+05:30||;True|2024-06-10T16:08:50.6102901+05:30||;True|2024-06-04T10:39:32.8397889+05:30||;True|2024-05-14T16:31:05.3322626+05:30||;True|2024-04-05T16:45:54.3619014+05:30||;True|2024-04-04T12:54:15.1319594+05:30||;True|2024-04-02T16:46:24.5460147+05:30||;False|2024-04-02T16:45:28.1646674+05:30||;True|2024-01-01T16:49:46.9361047+05:30||;True|2023-12-19T14:44:06.1699857+05:30||;True|2023-12-15T17:31:45.3845208+05:30||;True|2023-12-07T12:30:32.2801144+05:30||;True|2023-11-30T18:07:36.3206718+05:30||;True|2023-11-28T17:46:53.2720828+05:30||;True|2023-11-20T17:19:09.8862745+05:30||;True|2023-11-07T17:36:17.8125176+05:30||;True|2023-10-31T17:30:39.2873048+05:30||;True|2023-10-18T17:02:50.4398303+05:30||;True|2023-10-12T15:18:06.5189225+05:30||;True|2023-10-06T16:32:55.5030513+05:30||;True|2023-09-30T17:36:47.5666149+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Areas/HelpPage/HelpPage.css">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/Api.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ApiGroup.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/CollectionModelDescription.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ComplexTypeModelDescription.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/DictionaryModelDescription.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/EnumTypeModelDescription.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/HelpPageApiModel.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ImageSample.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/InvalidSample.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/KeyValuePairModelDescription.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/ModelDescriptionLink.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/Parameters.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/Samples.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/SimpleTypeModelDescription.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/DisplayTemplates/TextSample.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/Index.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Help/ResourceModel.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Shared/_Layout.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/Web.config">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Areas/HelpPage/Views/_ViewStart.cshtml">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="arm64/libHarfBuzzSharp.dll">
+      <publishTime>07/09/2020 03:32:50</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>06/25/2026 16:05:34</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>06/25/2026 16:05:33</publishTime>
+    </File>
+    <File Include="bin/arm64/libHarfBuzzSharp.dll">
+      <publishTime>07/09/2020 03:32:50</publishTime>
+    </File>
+    <File Include="bin/Aspose.Cells.dll">
+      <publishTime>09/16/2023 10:27:57</publishTime>
+    </File>
+    <File Include="bin/Aspose.Words.dll">
+      <publishTime>09/16/2023 09:22:40</publishTime>
+    </File>
+    <File Include="bin/CsvHelper.dll">
+      <publishTime>06/02/2025 20:03:30</publishTime>
+    </File>
+    <File Include="bin/DotNetZip.dll">
+      <publishTime>11/16/2021 14:19:10</publishTime>
+    </File>
+    <File Include="bin/DotNetZip.pdb">
+      <publishTime>11/16/2021 14:19:10</publishTime>
+    </File>
+    <File Include="bin/ExcelDataReader.DataSet.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/ExcelDataReader.DataSet.pdb">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/ExcelDataReader.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/ExcelDataReader.pdb">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/GOPWebAPI.dll">
+      <publishTime>06/25/2026 16:05:20</publishTime>
+    </File>
+    <File Include="bin/GOPWebAPI.pdb">
+      <publishTime>06/25/2026 16:05:20</publishTime>
+    </File>
+    <File Include="bin/HarfBuzzSharp.dll">
+      <publishTime>07/09/2020 03:32:44</publishTime>
+    </File>
+    <File Include="bin/ICSharpCode.SharpZipLib.dll">
+      <publishTime>09/16/2023 10:27:57</publishTime>
+    </File>
+    <File Include="bin/libHarfBuzzSharp.dll">
+      <publishTime>07/09/2020 03:32:50</publishTime>
+    </File>
+    <File Include="bin/libHarfBuzzSharp.dylib">
+      <publishTime>07/09/2020 03:32:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bcl.AsyncInterfaces.dll">
+      <publishTime>10/31/2023 20:30:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Bcl.HashCode.dll">
+      <publishTime>11/17/2020 02:45:16</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/Spire.Doc.dll">
+      <publishTime>02/22/2024 09:06:42</publishTime>
+    </File>
+    <File Include="bin/Spire.Presentation.dll">
+      <publishTime>03/01/2024 12:37:18</publishTime>
+    </File>
+    <File Include="bin/Swashbuckle.Core.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/System.Buffers.dll">
+      <publishTime>02/19/2020 15:35:18</publishTime>
+    </File>
+    <File Include="bin/System.Memory.dll">
+      <publishTime>02/19/2020 15:35:18</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/System.Numerics.Vectors.dll">
+      <publishTime>05/15/2018 18:59:44</publishTime>
+    </File>
+    <File Include="bin/System.Runtime.CompilerServices.Unsafe.dll">
+      <publishTime>10/23/2021 05:10:18</publishTime>
+    </File>
+    <File Include="bin/System.Text.Encodings.Web.dll">
+      <publishTime>10/15/2024 08:56:34</publishTime>
+    </File>
+    <File Include="bin/System.Text.Json.dll">
+      <publishTime>10/15/2024 08:57:20</publishTime>
+    </File>
+    <File Include="bin/System.Threading.Tasks.Extensions.dll">
+      <publishTime>02/19/2020 15:35:18</publishTime>
+    </File>
+    <File Include="bin/System.ValueTuple.dll">
+      <publishTime>05/15/2018 18:59:52</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/WebActivatorEx.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="bin/x64/libHarfBuzzSharp.dll">
+      <publishTime>07/09/2020 03:32:50</publishTime>
+    </File>
+    <File Include="bin/x86/libHarfBuzzSharp.dll">
+      <publishTime>07/09/2020 03:32:52</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>09/16/2023 10:27:57</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>09/16/2023 10:27:57</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>09/16/2023 10:27:57</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>09/16/2023 10:27:57</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>09/16/2023 10:27:57</publishTime>
+    </File>
+    <File Include="HelpDocs/DictionaryCheck.pptx">
+      <publishTime>09/23/2025 14:16:22</publishTime>
+    </File>
+    <File Include="HelpDocs/Fuzzy Value Fixer.pptx">
+      <publishTime>10/09/2025 11:49:39</publishTime>
+    </File>
+    <File Include="HelpDocs/GOP Help Document.docx">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="HelpDocs/Incident Report - User Guide.pptx">
+      <publishTime>04/25/2025 17:17:40</publishTime>
+    </File>
+    <File Include="HelpDocs/UserGuide-Marketing.pptx">
+      <publishTime>11/19/2025 16:56:45</publishTime>
+    </File>
+    <File Include="HelpDocs/UserGuide-MRODictionary.pptx">
+      <publishTime>10/15/2024 14:25:55</publishTime>
+    </File>
+    <File Include="HelpDocs/UserGuideSNOMEDSearcher.pptx">
+      <publishTime>11/23/2023 09:47:45</publishTime>
+    </File>
+    <File Include="HelpDocs/UserGuideUNSPSCSearcher.pptx">
+      <publishTime>11/22/2023 11:52:10</publishTime>
+    </File>
+    <File Include="libHarfBuzzSharp.dll">
+      <publishTime>07/09/2020 03:32:50</publishTime>
+    </File>
+    <File Include="libHarfBuzzSharp.dylib">
+      <publishTime>07/09/2020 03:32:40</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/27/2026 15:56:20</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>06/25/2026 16:05:21</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="temp/DeliveryPlanTestFile.xlsx">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="temp/QCUpload_DLG_002_0001_7_1.xlsx">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="temp/TestFile 2 Columns.xlsx">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="temp/TestFile Empty.xlsx">
+      <publishTime>09/16/2023 10:27:58</publishTime>
+    </File>
+    <File Include="Templates/GAT/AbbInputFileTemplate.xlsx">
+      <publishTime>08/18/2025 14:13:30</publishTime>
+    </File>
+    <File Include="Templates/GAT/AbbreviationFileTemplate.xlsx">
+      <publishTime>08/18/2025 14:13:42</publishTime>
+    </File>
+    <File Include="Templates/GAT/AttributeDictionaryFileTemplate.xlsx">
+      <publishTime>09/17/2025 14:02:28</publishTime>
+    </File>
+    <File Include="Templates/GAT/AttributeValueConsistencyCheckInputFileTemplate.xlsx">
+      <publishTime>02/26/2026 10:28:07</publishTime>
+    </File>
+    <File Include="Templates/GAT/AttributeValueConsistencyCheckUOMFileTemplate.xlsx">
+      <publishTime>02/26/2026 10:28:27</publishTime>
+    </File>
+    <File Include="Templates/GAT/CalculateAttributeValueFillPercentageTemplate.xlsx">
+      <publishTime>08/25/2025 10:18:36</publishTime>
+    </File>
+    <File Include="Templates/GAT/CharacterLengthSplitterTemplate.xlsx">
+      <publishTime>12/05/2025 12:02:28</publishTime>
+    </File>
+    <File Include="Templates/GAT/DCDictionaryFileTemplate.xlsx">
+      <publishTime>09/23/2025 09:55:29</publishTime>
+    </File>
+    <File Include="Templates/GAT/DCInputFileTemplate.xlsx">
+      <publishTime>09/22/2025 09:52:51</publishTime>
+    </File>
+    <File Include="Templates/GAT/DGAbbreviationFileTemplate.xlsx">
+      <publishTime>09/05/2025 11:05:56</publishTime>
+    </File>
+    <File Include="Templates/GAT/DGIdentifiersFileTemplate.xlsx">
+      <publishTime>09/05/2025 11:05:56</publishTime>
+    </File>
+    <File Include="Templates/GAT/DGInputFileNewTemplate.xlsx">
+      <publishTime>09/05/2025 11:05:56</publishTime>
+    </File>
+    <File Include="Templates/GAT/DuplicatesCheckOnAttributesInputFileTemplate.xlsx">
+      <publishTime>02/05/2026 12:22:28</publishTime>
+    </File>
+    <File Include="Templates/GAT/DuplicatesCheckOnAttributesListFileTemplate.xlsx">
+      <publishTime>02/05/2026 12:22:40</publishTime>
+    </File>
+    <File Include="Templates/GAT/DuplicatesCheckOnNMAndAllAVsTemplate.xlsx">
+      <publishTime>01/01/2026 11:09:51</publishTime>
+    </File>
+    <File Include="Templates/GAT/FindSameDrugsTemplate.xlsx">
+      <publishTime>11/21/2025 09:47:11</publishTime>
+    </File>
+    <File Include="Templates/GAT/FuzzyValueFixerTemplate.xlsx">
+      <publishTime>10/09/2025 14:17:09</publishTime>
+    </File>
+    <File Include="Templates/GAT/HighlightAttributesInputFileTemplate.xlsx">
+      <publishTime>09/17/2025 14:01:23</publishTime>
+    </File>
+    <File Include="Templates/GAT/ItemSpendAnalysisTemplate.xlsx">
+      <publishTime>12/23/2025 09:43:46</publishTime>
+    </File>
+    <File Include="Templates/GAT/MRODictionaryAttributeValuesTemplate.xlsx">
+      <publishTime>10/15/2025 14:58:02</publishTime>
+    </File>
+    <File Include="Templates/GAT/NumberSearchTemplate.xlsx">
+      <publishTime>09/29/2025 15:54:36</publishTime>
+    </File>
+    <File Include="Templates/GAT/OEMDescriptionGeneratorTemplate.xlsx">
+      <publishTime>11/24/2025 15:59:25</publishTime>
+    </File>
+    <File Include="Templates/GAT/ProductionVsQACheckReportTemplate.xlsx">
+      <publishTime>02/17/2026 16:55:15</publishTime>
+    </File>
+    <File Include="Templates/GAT/RemoveDuplicateWordsFromInputDescriptionTemplate.xlsx">
+      <publishTime>12/24/2025 11:14:13</publishTime>
+    </File>
+    <File Include="Templates/GAT/SamplingSelectionInputFileTemplate.xlsx">
+      <publishTime>10/13/2025 09:57:50</publishTime>
+    </File>
+    <File Include="Templates/GAT/STP Description Generator Template.xlsx">
+      <publishTime>12/03/2025 17:15:40</publishTime>
+    </File>
+    <File Include="Templates/GAT/STPIFCInputFileTemplate.xlsx">
+      <publishTime>12/02/2025 10:27:14</publishTime>
+    </File>
+    <File Include="Templates/GAT/STPIFCTaxonomyFileTemplate.xlsx">
+      <publishTime>12/02/2025 10:28:17</publishTime>
+    </File>
+    <File Include="Templates/GAT/STPSplitAttributeValueTemplate.xlsx">
+      <publishTime>11/27/2025 16:15:38</publishTime>
+    </File>
+    <File Include="Templates/GAT/StrengthAndFormExtractionTemplate.xlsx">
+      <publishTime>10/29/2025 14:13:47</publishTime>
+    </File>
+    <File Include="Templates/GAT/TermAnalysisTemplate.xlsx">
+      <publishTime>12/18/2025 14:29:42</publishTime>
+    </File>
+    <File Include="Templates/GAT/TextReplacerTemplate.xlsx">
+      <publishTime>12/16/2025 17:22:13</publishTime>
+    </File>
+    <File Include="Templates/GAT/TransposeHtoVTemplate.xlsx">
+      <publishTime>08/05/2025 12:28:23</publishTime>
+    </File>
+    <File Include="Templates/GAT/TransposeVtoHTemplate.xlsx">
+      <publishTime>08/07/2025 10:45:42</publishTime>
+    </File>
+    <File Include="Templates/Griha.xlsx">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Templates/MRO Dictionary Upload Template.xlsx">
+      <publishTime>08/14/2024 17:54:01</publishTime>
+    </File>
+    <File Include="Templates/NM Auto Classifier - Abbreviation File Template.xlsx">
+      <publishTime>07/28/2025 16:54:20</publishTime>
+    </File>
+    <File Include="Templates/NM Auto Classifier - Input File Template.xlsx">
+      <publishTime>07/29/2025 12:45:28</publishTime>
+    </File>
+    <File Include="Templates/NM Auto Classifier - Noun-Modifier File Template.xlsx">
+      <publishTime>07/28/2025 16:59:49</publishTime>
+    </File>
+    <File Include="Templates/ProductionAllocationTemplate.xlsx">
+      <publishTime>11/03/2023 16:27:53</publishTime>
+    </File>
+    <File Include="Templates/ProjectAllocationTemplate.xlsx">
+      <publishTime>09/16/2023 10:27:48</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>09/16/2023 10:27:57</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>09/16/2023 10:27:57</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>09/16/2023 10:27:57</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>09/16/2023 10:27:57</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>09/16/2023 10:27:57</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/11/2026 15:07:47</publishTime>
+    </File>
+    <File Include="x64/libHarfBuzzSharp.dll">
+      <publishTime>07/09/2020 03:32:50</publishTime>
+    </File>
+    <File Include="x86/libHarfBuzzSharp.dll">
+      <publishTime>07/09/2020 03:32:52</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
